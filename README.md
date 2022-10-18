@@ -3,6 +3,7 @@
 - 🌱 I’m currently doing advanced react js and Javascript
 - 💞️ I’m looking to collaborate on Web Development for last 12 years.
 - 📫 How to reach me using LinkedIn
+https://www.linkedin.com/in/alexthomas81/
 
 <!---
 alexthomas81/alexthomas81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
