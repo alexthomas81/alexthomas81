@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexthomas81
 - 👀 I’m interested in browsing, driving, swimming.
-- 🌱 I’m currently learning advanced react js and Javascript
+- 🌱 I’m currently doing advanced react js and Javascript
 - 💞️ I’m looking to collaborate on Web Development for last 12 years.
 - 📫 How to reach me using LinkedIn
 
